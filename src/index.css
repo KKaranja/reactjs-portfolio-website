@@ -46,7 +46,7 @@ body {
 /* ============= general styles ============= */
 .container {
   width: var(--container-width-lg);
-  margin: o auto;
+  margin: 0 auto;
 }
 
 h1,
@@ -63,6 +63,7 @@ h1 {
 
 section {
   margin-top: 8rem;
+  height: 100vh;
 }
 section > h2,
 section > h5 {
