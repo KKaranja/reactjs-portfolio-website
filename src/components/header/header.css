@@ -38,7 +38,7 @@ header {
 
 /* =========== img (me) ============ */
 .me {
-  background: linear-gradient(#d8cec2, transparent);
+  background: linear-gradient(#d1c5b8, transparent);
   width: 22rem;
   height: 30rem;
   position: absolute;
@@ -71,7 +71,8 @@ header {
   header {
     height: 100vh;
   }
-  .header__social, .scroll__down{
-      display: none;
+  .header__social,
+  .scroll__down {
+    display: none;
   }
 }
